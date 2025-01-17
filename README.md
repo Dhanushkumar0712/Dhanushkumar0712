@@ -1,10 +1,3 @@
-## Hi there I'm Dhanushkumar👋
-
-<!--
-**Dhanushkumar0712/Dhanushkumar0712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 🔭 I’m currently working on something cool .<br>🌱 I’m currently learning Spring Boot, React, JavaScript, Typescript.<br>📫 How to reach me: dhanushkumar.c07@gmail
 
